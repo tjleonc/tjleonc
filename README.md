@@ -12,6 +12,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tjleonc&show_icons=true&theme=dark&locale=en&layout=compact" alt="tjleonc" /></p>
 <br><br><br><br><br><br><br>
 
+#### Studying in this moment:
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tailwind"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>
 
 <hr width="36%" >
 
